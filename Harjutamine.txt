@@ -1,1 +1,1 @@
-Mina hakkan GitHubi kasutama enda teksti ja failide pilve keskkonnas hoidmiseks. Samuti saan ka otsida teiste inimeste avalikuks tehtud projekte
+GitHubi kasutatakse enda teksti ja failide pilve keskkonnas hoidmiseks. Samuti saab ka otsida teiste inimeste avalikuks tehtud projekte
